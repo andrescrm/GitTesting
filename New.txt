@@ -1,1 +1,1 @@
-This is a new implementation of git repositories
+This is a new implementation of git repositories and an example of a second commit on git.
