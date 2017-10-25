@@ -1,2 +1,1 @@
-This is a new implementation of git repositories and an example of a second commit on git.
-This is a third change in this commit.
+This is a new implementation of git repositories and to see diff function.
