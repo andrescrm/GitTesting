@@ -1,0 +1,3 @@
+This is a new file for the test
+	Second line for the test
+	Third line for the test
