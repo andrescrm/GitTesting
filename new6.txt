@@ -3,3 +3,8 @@ This is a new file for the test
 	Third line for the test
 
 Some conflict between branches
+
+Some test to rebase
+Some conflict for dev and master
+
+Some test to rebase
