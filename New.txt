@@ -8,3 +8,5 @@ Some changes in dev branch
 Another changes to test rebase
 
 more changes to rebase
+
+Additional change for rebase in dev - test 2
