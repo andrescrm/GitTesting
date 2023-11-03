@@ -6,3 +6,5 @@ Some changes from master branch
 Some changes in dev branch
 
 Another changes to test rebase
+
+more changes to rebase

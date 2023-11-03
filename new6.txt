@@ -2,7 +2,4 @@ This is a new file for the test
 	Second line for the test
 	Third line for the test
 
-<<<<<<< HEAD
-=======
 Some conflict between branches
->>>>>>> 99b3892 (Some conflicts between branches)
