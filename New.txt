@@ -4,3 +4,5 @@ This is a stash version
 
 Some changes from master branch
 Some changes in dev branch
+
+Another changes to test rebase
