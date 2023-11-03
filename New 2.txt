@@ -3,3 +3,5 @@ This is a test for a second file
 Some notes from dev branch
 
 This is a modification to test rebase
+
+Additional change for rebase in master - test 2
